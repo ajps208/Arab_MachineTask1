@@ -66,7 +66,7 @@ function Sidebar({ isSidebarVisible }) {
           </div>
         </div>
         {/* logout */}
-        <div className="flex justify-center items-center bg-cyan-100 p-3 mt-[365px] md:mt-28">
+        <div className="flex justify-center items-center bg-cyan-100 p-3 mt-[365px] md:mt-32">
           <p className="text-blue-600"> Logout</p>
           <img className="ms-2" width={"20px"} src={logout} alt="" />
         </div>

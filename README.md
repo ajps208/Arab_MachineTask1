@@ -26,6 +26,3 @@ Keep the project structure organized and follow best practices.
 
 <h2>Troubleshooting</h2>
 If you encounter any issues, refer to the troubleshooting section in the README.md file or check for updates in the project repository.
-
-<h2>Acknowledgments</h2>
-Give credit to the original Ombrulla website for inspiration and design.
